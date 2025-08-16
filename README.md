@@ -11,20 +11,6 @@ A powerful AI-powered research automation system featuring a multi-agent archite
 - **Writer Agent**: Automated research paper generation
 - **Editor Agent**: Quality assurance and final editing
 
-### 📊 Advanced Analytics
-- Real-time progress tracking
-- Quality metrics and scoring
-- Performance analytics
-- Research history tracking
-- Interactive visualizations
-
-### 🎨 Modern UI
-- Beautiful Streamlit-based interface
-- Responsive design with custom CSS
-- Interactive charts and graphs
-- Real-time updates and notifications
-- Mobile-friendly layout
-
 ### 📚 Research Capabilities
 - Automated literature review
 - Data analysis and insights
@@ -192,20 +178,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Dependency Issues**: Run `pip install -r requirements.txt`
 - **Port Conflicts**: Change port in launcher script if 8501 is busy
 
-### Getting Help
-- Check the [Issues](https://github.com/your-repo/agentic-research-assistant/issues) page
-- Review the project documentation
-- Contact the development team
 
-## 🎉 Acknowledgments
+
+<!-- ## 🎉 Acknowledgments
 
 - Built with [Streamlit](https://streamlit.io/) for the web interface
 - Powered by [Groq](https://groq.com/) for AI language processing
 - Agentic with [Tavily](https://tavily.com/) for research capabilities
-- Developed using [LangChain](https://langchain.com/) framework
+- Developed using [LangChain](https://langchain.com/) framework -->
 
 ---
 
 **Made with ❤️ by ThillaiC**
 
-For more information, visit our [GitHub repository](https://github.com/thillai-c/agentic-research-assistant).
+
