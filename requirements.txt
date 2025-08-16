@@ -1,0 +1,26 @@
+# Agentic Research Assistant Dependencies
+# Core AI/ML Libraries
+langchain
+langchain-community
+langchain-groq
+langchain-tavily
+langgraph
+langsmith
+
+# Web UI Framework
+streamlit
+
+# Data Processing & Visualization
+pandas
+plotly
+numpy
+
+# Environment & Configuration
+python-dotenv
+
+# Search & Research Tools
+tavily-python
+
+# Additional Utilities
+requests
+python-dateutil
