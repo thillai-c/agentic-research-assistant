@@ -127,15 +127,10 @@ The application will open in your browser at `http://localhost:8501`
 
 ## 🖥️ User Interface
 
-The system features a modern, intuitive interface built with Streamlit:
+
 
 ![Agentic Research Assistant Interface](img/image.png)
 
-**Key Interface Components:**
-- **Research Controls**: Configure research parameters, scope, and advanced options
-- **Real-time Dashboard**: Live metrics including sources, insights, paper length, and quality score
-- **Research Outputs**: Literature sources and data insights display
-- **Advanced Options**: Citations, plagiarism checking, and paper length configuration
 
 ## 🛠️ Development
 
