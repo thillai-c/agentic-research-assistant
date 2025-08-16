@@ -125,21 +125,6 @@ The application will open in your browser at `http://localhost:8501`
 - **Summary**: Research overview
 - **Metrics**: Performance analytics
 
-## 🎯 Research Workflow
-
-**Multi-Agent Architecture** - Specialized AI agents work together:
-
-**Research Director** 🎯 - Strategic planning and coordination
-**Literature Agent** 🔍 - Literature search with relevance scoring (0-10)
-**Data Agent** 📊 - Generates insights from research data
-**Writer Agent** ✍️ - Creates research papers with academic standards
-**Editor Agent** ✏️ - Quality assurance and final editing
-
-### How It Works
-- Agents operate collaboratively, not sequentially
-- Real-time quality scoring across multiple dimensions
-- Dynamic insight generation and source analysis
-- Comprehensive research evaluation system
 
 ## 🛠️ Development
 
