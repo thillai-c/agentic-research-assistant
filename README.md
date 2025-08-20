@@ -1,24 +1,24 @@
-# 🚀 Agentic Research Assistant
+# Agentic Research Assistant
 
 A powerful AI-powered research automation system featuring a multi-agent architecture for comprehensive academic research and paper generation.
 
-## ✨ Features
+## Features
 
-### 🧠 Multi-Agent Architecture
+### Multi-Agent Architecture
 - **Research Director**: Strategic planning and coordination
 - **Literature Agent**: Advanced literature search and analysis
 - **Data Agent**: Comprehensive data collection and insights
 - **Writer Agent**: Automated research paper generation
 - **Editor Agent**: Quality assurance and final editing
 
-### 📚 Research Capabilities
+### Research Capabilities
 - Automated literature review
 - Data analysis and insights
 - Academic paper generation
 - Citation management
 - Multiple export formats
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 agentic-research-assistant/
@@ -35,7 +35,7 @@ agentic-research-assistant/
 └── README.md                          # This file
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone the Repository
 ```bash
@@ -71,7 +71,7 @@ python main.py
 
 The application will open in your browser at `http://localhost:8501`
 
-## 🔧 Advanced Configuration
+## Advanced Configuration
 
 ### Research Parameters
 - **Research Scope**: Comprehensive, Focused, Quick Review, Deep Analysis
@@ -85,13 +85,13 @@ The application will open in your browser at `http://localhost:8501`
 - **Enable Citations**: Automatic citation generation
 - **Enable Plagiarism Check**: Content originality verification
 
-## 📊 Usage Guide
+## Usage Guide
 
 ### 1. Start Research
 1. Enter your research topic in the sidebar
 2. Select research scope and audience
 3. Choose research type
-4. Click "🚀 Start Agentic Research"
+4. Click "Start Agentic Research"
 
 ### 2. Monitor Progress
 - Watch real-time progress updates
@@ -111,14 +111,11 @@ The application will open in your browser at `http://localhost:8501`
 - **Summary**: Research overview
 - **Metrics**: Performance analytics
 
-## 🖥️ User Interface
-
-
+## User Interface
 
 ![Agentic Research Assistant Interface](img/image.png)
 
-
-## 🛠️ Development
+## Development
 
 ### Prerequisites
 - Python 3.13+
@@ -149,7 +146,7 @@ python main.py
 - **Launch Scripts**: `main.py`
 - **Settings**: `config.py`
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 The system tracks various performance indicators:
 - **Completion Time**: Total research duration
@@ -158,37 +155,26 @@ The system tracks various performance indicators:
 - **Data Insights**: Number of data points analyzed
 - **Paper Length**: Generated content length
 
-## 🔒 Security & Privacy
+## Security & Privacy
 
 - API keys stored in environment variables
 - No data sent to external services without consent
 - Local processing for sensitive research topics
 - Configurable privacy settings
 
-
-
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
+## Support
 
 ### Common Issues
 - **API Key Errors**: Ensure your `.env` file contains valid API keys
 - **Dependency Issues**: Run `pip install -r requirements.txt`
 - **Port Conflicts**: Change port in launcher script if 8501 is busy
 
-
-
-<!-- ## 🎉 Acknowledgments
-
-- Built with [Streamlit](https://streamlit.io/) for the web interface
-- Powered by [Groq](https://groq.com/) for AI language processing
-- Agentic with [Tavily](https://tavily.com/) for research capabilities
-- Developed using [LangChain](https://langchain.com/) framework -->
-
 ---
 
-**Made with ❤️ by ThillaiC**
+**Developed by ThillaiC**
 
 
